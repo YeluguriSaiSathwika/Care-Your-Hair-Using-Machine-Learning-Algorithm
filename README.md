@@ -59,4 +59,11 @@ Future development within CYH is poised to embrace the forefront of innovation t
 
 ## Output Screens
 
+![Picture1](https://github.com/YeluguriSaiSathwika/Care-Your-Hair-Using-Machine-Learning-Algorithm/assets/161927609/e2bdfd45-c5bc-4518-8f78-941522ef92e1)
+
+
+![Picture2](https://github.com/YeluguriSaiSathwika/Care-Your-Hair-Using-Machine-Learning-Algorithm/assets/161927609/a628657d-4571-429b-b49b-52304bf79ee4)
+
+
+![Picture3](https://github.com/YeluguriSaiSathwika/Care-Your-Hair-Using-Machine-Learning-Algorithm/assets/161927609/a01de752-1739-4d83-b4dd-aab3098bbf22)
 
